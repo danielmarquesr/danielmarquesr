@@ -1,7 +1,5 @@
 ## Hey ✌️, I'm Daniel Marques!
 
-### I'm a Full Stack Engineer currently focusing on JS/TS
-
 <!--
 **danielmarquesr/danielmarquesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
